@@ -15,7 +15,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'therubyracer', platforms: :ruby
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
-gem "font-awesome-rails"
+gem 'font-awesome-rails'
+gem 'simple_form'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
